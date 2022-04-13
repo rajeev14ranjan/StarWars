@@ -52,7 +52,7 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.6",
-    "ua-parser-js": "^0.7.18",
+    "ua-parser-js": "^0.7.24",
     "webpack-bundle-analyzer": "^3.6.0"
   }
 }
